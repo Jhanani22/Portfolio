@@ -15,4 +15,4 @@ Java • JavaScript • React.js • HTML • CSS • Node.js • Express.js •
 
 ### 🌐 Portfolio
 
-🔗 **[Visit My Portfolio](https://jhananikv-portfolio.vercel.app/)**
+🔗 **[Visit My Portfolio](https://jhananikv.vercel.app/)**
